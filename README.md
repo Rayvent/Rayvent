@@ -1,18 +1,26 @@
 <div align="center">
-<h2>🦎 Rayvent / Developer</h2>
 
-
-<img src="https://skillicons.dev/icons?i=python,c,haskell,vscode,pycharm&theme=dark" alt="Skills">
-
+<h1>🦎 Rayvent / experienced coder</h1>
 
 </div>
 
+---
 
-<div align="center">
+<br>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Rayvent&show_icons=true&theme=radical&hide_border=true&locale=ru"
-  alt="GitHub статистика Rayvent"
-/>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,c,haskell,vscode,pycharm&theme=dark&perline=5"
+    alt="Python, C, Haskell, VS Code, PyCharm"
+  >
+</p>
 
-</div>
+<br>
+
+<p align="center">
+  <img
+    width="470"
+    src="https://github-readme-stats.vercel.app/api?username=Rayvent&show_icons=true&theme=radical&hide_border=true&locale=ru"
+    alt="GitHub Stats"
+  >
+</p>
