@@ -2,13 +2,6 @@
 
 <h2>🦎 Rayvent / Developer</h2>
 
-</div>
-
----
-
-<br>
-
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,c,haskell,vscode,pycharm&theme=dark" alt="Skills">
 
