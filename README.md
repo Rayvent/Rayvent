@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🦎 Rayvent / experienced coder</h1>
+<h1>🦎 Rayvent / developer</h1>
 
 </div>
 
