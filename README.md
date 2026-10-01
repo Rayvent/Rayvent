@@ -1,36 +1,26 @@
 <div align="center">
 
-# 👋 Rayvent
-
-### Developer
+<h2>🦎 Rayvent / Developer</h2>
 
 </div>
 
 ---
 
-## 🛠 Технологии
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,C,haskell,vscode&theme=dark" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=python,c,haskell,vscode,pycharm&theme=dark" alt="Skills">
 
-## 📊 GitHub статистика
+</div>
+
+<br><br>
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Rayvent&show_icons=true&theme=transparent&hide_border=true&locale=ru"
-  alt="GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api?username=Rayvent&show_icons=true&theme=radical&hide_border=true&locale=ru"
+  alt="GitHub статистика Rayvent"
 />
 
 </div>
-
----
-
-## 🐍 Активность
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rayvent/Rayvent/output/github-snake-dark.svg" alt="Snake animation">
-</p>
