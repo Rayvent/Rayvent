@@ -9,7 +9,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=python,c,haskell,vscode,pycharm, bash&theme=dark&perline=5"
+    src="https://skillicons.dev/icons?i=python,c,haskell,vscode,pycharm&theme=dark&perline=5"
     alt="Python, C, Haskell, VS Code, PyCharm, Bash"
   >
 </p>
