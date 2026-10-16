@@ -7,12 +7,13 @@
 
 <br>
 
+
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,c,haskell,bash,linux,git,github,vscode,pycharm&theme=dark&perline=5"
-    alt="My Development Stack"
-  >
+  <img src="https://skillicons.dev/icons?i=py,c,haskell,bash,linux&theme=dark" alt="Languages and Systems">
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm&theme=dark" alt="Development Tools">
 </p>
+
 
 <br>
 
