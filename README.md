@@ -16,11 +16,3 @@
 
 
 <br>
-
-<p align="center">
-  <img
-    width="470"
-    src="https://github-readme-stats.vercel.app/api?username=Rayvent&show_icons=true&theme=radical&hide_border=true&locale=ru"
-    alt="GitHub Stats"
-  >
-</p>
